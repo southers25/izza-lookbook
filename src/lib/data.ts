@@ -79,6 +79,7 @@ export const brands: Brand[] = [
     images: [
       { src: "izza-shop-full-selection-42", alt: "Clothing rack with curated shirts and ceramic pitcher above", role: "hero", aspect: "portrait", sharedWith: ["fanny-lopez-studio"] },
       { src: "izza-shop-full-selection-29", alt: "Boutique interior with shelves of curated products and art", role: "atmosphere", aspect: "portrait" },
+      { src: "izza-shop-full-selection-01", alt: "Boutique wardrobe with curated clothing and lifestyle accessories", role: "atmosphere", aspect: "portrait", sharedWith: ["kasbah-chic", "matala"] },
     ],
     isHouseBrand: false,
   },
@@ -95,6 +96,7 @@ export const brands: Brand[] = [
     images: [
       { src: "izza-shop-full-selection-28", alt: "Handmade bag on display stand in boutique with Moorish archway", role: "hero", aspect: "landscape" },
       { src: "izzashop-day1-21", alt: "Boutique interior with shelving and artisan products", role: "atmosphere", aspect: "landscape" },
+      { src: "izza-shop-full-selection-49", alt: "Boutique wardrobe with handmade bags and curated accessories", role: "styled", aspect: "portrait", sharedWith: ["kasbah-chic", "res-ipsa"] },
     ],
     isHouseBrand: false,
   },
@@ -110,6 +112,7 @@ export const brands: Brand[] = [
     images: [
       { src: "izza-shop-full-selection-50", alt: "Boutique wardrobe with colorful garments and a browsing visitor", role: "hero", aspect: "portrait" },
       { src: "izza-shop-full-selection-01", alt: "Wardrobe detail with hanging clothing and shelved accessories", role: "atmosphere", aspect: "portrait" },
+      { src: "izza-shop-full-selection-42", alt: "Clothing rack with curated shirts and ceramic vessel on display", role: "detail", aspect: "portrait", sharedWith: ["travel", "fanny-lopez-studio"] },
     ],
     isHouseBrand: false,
   },
@@ -125,6 +128,7 @@ export const brands: Brand[] = [
     images: [
       { src: "izza-shop-full-selection-49", alt: "Full boutique wardrobe with curated clothing, bags, and accessories", role: "hero", aspect: "portrait" },
       { src: "izza-shop-full-selection-29", alt: "Wide boutique interior with art prints and product shelving", role: "atmosphere", aspect: "portrait" },
+      { src: "izza-shop-full-selection-28", alt: "Artisan bag on display stand in boutique with Moorish archway", role: "styled", aspect: "landscape", sharedWith: ["lalla"] },
     ],
     isHouseBrand: false,
   },
@@ -191,6 +195,7 @@ export const brands: Brand[] = [
     images: [
       { src: "izza-shop-full-selection-55", alt: "Decorative ceramic cups and vase with bold arch patterns in terracotta and olive", role: "hero", aspect: "portrait" },
       { src: "izza-shop-full-selection-56", alt: "Three ceramic cups with arch motifs on marble pedestal in soft light", role: "detail", aspect: "portrait" },
+      { src: "izza-shop-full-selection-43", alt: "Sculptural ceramic pitcher with wavy handle in warm window light", role: "styled", aspect: "portrait", sharedWith: ["fanny-lopez-studio"] },
     ],
     isHouseBrand: false,
   },
@@ -204,6 +209,7 @@ export const brands: Brand[] = [
     images: [
       { src: "izza-shop-full-selection-30", alt: "Star-shaped amber soap bars in warm directional light", role: "hero", aspect: "portrait" },
       { src: "izza-shop-full-selection-32", alt: "Hand placing a star-shaped artisanal soap on a stack", role: "detail", aspect: "portrait" },
+      { src: "izza-shop-full-selection-16", alt: "Sun-dappled agave leaves against terracotta wall", role: "atmosphere", aspect: "portrait" },
     ],
     isHouseBrand: false,
   },
@@ -219,6 +225,7 @@ export const brands: Brand[] = [
     images: [
       { src: "izza-shop-full-selection-36", alt: "Complete ceramic dinner set with cups, saucers, bowls, and plates", role: "hero", aspect: "portrait", sharedWith: ["fanny-lopez-studio"] },
       { src: "izza-shop-full-selection-23", alt: "Shelf display with ceramic pieces, perfume bottles, and woven accessories", role: "styled", aspect: "portrait", sharedWith: ["izza-perfume"] },
+      { src: "izza-shop-full-selection-44", alt: "Artisan ceramic pitcher with maker's tag on tiled shelf", role: "detail", aspect: "portrait", sharedWith: ["fanny-lopez-studio"] },
     ],
     isHouseBrand: true,
   },
@@ -247,6 +254,7 @@ export const brands: Brand[] = [
     images: [
       { src: "izza-shop-full-selection-26", alt: "IZZA perfume bottles on display shelf with slippers and brass pitcher", role: "hero", aspect: "portrait" },
       { src: "izza-shop-full-selection-24", alt: "Shelf arrangement with perfume bottles, necklace, and decorative objects", role: "detail", aspect: "landscape" },
+      { src: "izza-shop-full-selection-21", alt: "IZZA perfume bottles alongside colorful timmitry clutch bags and ceramic cups", role: "styled", aspect: "portrait", sharedWith: ["izza-timmitry", "izza-ceramic"] },
     ],
     isHouseBrand: true,
   },
