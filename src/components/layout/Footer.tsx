@@ -59,7 +59,7 @@ export function Footer() {
         </div>
 
         <div className="mt-16 pt-8 border-t border-cream/10 text-xs text-cream/40">
-          &copy; {new Date().getFullYear()} IZZA Boutique. All rights reserved.
+          &copy; {new Date().getFullYear()} IZZA. All rights reserved.
         </div>
       </div>
     </footer>
